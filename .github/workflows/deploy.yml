@@ -22,6 +22,8 @@ jobs:
         local-dir: ./
         port: 21
         exclude: |
-          .github/
+          **/.github/**
           test/vendor/
           test2/
+          **/vendor/**
+          **/.git/**
