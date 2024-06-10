@@ -23,7 +23,7 @@ jobs:
         port: 21
         exclude: |
           .github/**
-          test/vendor/
+          test/vendor/**
           test2/
           **/.git*
           **/.git*/**
