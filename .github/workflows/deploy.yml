@@ -22,4 +22,5 @@ jobs:
         local-dir: ./
         port: 21
         dry-run: false
-        only-newer-files: true
+        only-newer-files: false
+        use-latest: true
