@@ -254,7 +254,7 @@
 
 		<div class="wb-hr"></div>
 
-		<h1>*********Our website is coming soon*********</h1>
+		<h1>!!!Our website is coming soon!!!!</h1>
 
 		<div class="wb-domain">jdsj91.kesug.com</div>
 
