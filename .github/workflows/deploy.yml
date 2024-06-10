@@ -24,7 +24,7 @@ jobs:
         exclude: |
           .github/**
           test/vendor/**
-          test2/
+          test2/**
           **/.git*
           **/.git*/**
           **/node_modules/**
