@@ -21,6 +21,7 @@ jobs:
         server-dir: /htdocs/
         local-dir: ./
         port: 21
-        dry-run: false
-        only-newer-files: false
-        use-latest: true
+        exclude: |
+          .github/
+          test/vendor/
+          test2/
