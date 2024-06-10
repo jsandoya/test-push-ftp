@@ -26,4 +26,6 @@ jobs:
           test/vendor/
           test2/
           **/vendor/**
-          **/.git/**
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
